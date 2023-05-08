@@ -38,3 +38,5 @@ This script is used to rename labeled images inside subdirectories. Follow the s
 You can install these libraries using the pip package manager by running the following command in your terminal:
 pip install os shutil
 
+## License
+This repository is licensed under the MIT License
