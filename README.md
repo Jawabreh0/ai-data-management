@@ -24,7 +24,7 @@ This script is used to rename labeled images inside subdirectories. Follow the s
   * Open the script and change the path variable to the path of the directory containing the files to be renamed.
   * Run the script by executing the command "python renameFiles.py" in your terminal.
   * The script will rename the files in the directory with a unique numerical filename.
-  * 
+
 3. unlabel.py
  This script is used to remove labels from labeled images stored in subdirectories. Follow the steps below to use this script:
   * Open the script and change the source_dir and dest_dir variables to the path of the directory containing the labeled images and the path of the destination directory respectively.
